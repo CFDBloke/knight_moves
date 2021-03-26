@@ -1,0 +1,1 @@
+A script for determining the shortest route for a knight chess piece to move from one designated position to another on an 8x8 chessboard.
